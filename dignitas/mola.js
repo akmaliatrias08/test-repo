@@ -1,1 +1,1 @@
-console.log("Mola");
+console.log("Mola tamvan");
