@@ -6,3 +6,7 @@ console.log(" Hello I am Fauzi");
 console.log("cecil")
 console.log("ReynerWL");
 console.log("HI Rey");
+console.log(" Hello I am Fauzi");
+console.log("cecil")
+console.log(" Hello I am Danar");
+console.log("Danar")
