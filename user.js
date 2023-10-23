@@ -1,3 +1,5 @@
+console.log("HELLO JUA !!!")
+console.log("HELLO INI JUA LAGIII !!!")
 console.log("HELLO !!!")
 <<<<<<< HEAD
 console.log(" Hello I am Fauzi again!");
