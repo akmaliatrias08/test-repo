@@ -1,1 +1,2 @@
-console.log("HELLO !!!")
+console.log("HELLO JUA !!!")
+console.log("HELLO INI JUA LAGIII !!!")
