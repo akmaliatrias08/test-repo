@@ -3,3 +3,4 @@ export const Repository = () => {
     <div>Repository</div>
   )
 }
+console.log("Hai aku Danar");
